@@ -1,4 +1,4 @@
-![my_banner](https://i.imgur.com/DpXxqNn.png)
+![my_banner]([https://i.imgur.com/DpXxqNn.png](https://i.imgur.com/hg3XE0X.png))
 
 
 Hello there! Im Brandi!
